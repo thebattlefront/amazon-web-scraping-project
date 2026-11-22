@@ -6,6 +6,12 @@ A Python project that extracts key product information from an Amazon listing an
 
 This project uses web scraping techniques to collect product information from an Amazon listing. The extracted data is organized and exported into a CSV file, making it easier to review and analyze using spreadsheet software.
 
+## Development Context
+
+**Guided Learning Project**
+
+Completed while following instructional material to learn Python web scraping and automation techniques. The project provided hands-on practice collecting information from an online source and exporting it into a structured format.
+
 ## Tools & Technologies
 
 - Python
@@ -26,6 +32,9 @@ This project uses web scraping techniques to collect product information from an
 
 - `Amazon Web Scraper Project.ipynb` - Jupyter Notebook containing the web scraping code.
 
-## Purpose
+## Learning Objectives
 
-To practice Python automation and web scraping while learning how to collect, structure, and export data from an online source.
+- Practice Python programming and web scraping.
+- Learn how to collect information from online sources.
+- Automate data collection and CSV exports.
+- Understand how to structure extracted data for spreadsheet analysis.
